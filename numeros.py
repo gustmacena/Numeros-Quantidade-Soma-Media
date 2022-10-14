@@ -1,4 +1,4 @@
-# 4 - Escreva um programa que leia números inteiros do teclado.
+# programa que leia números inteiros do teclado.
 # O programa deve ler os números até que o usuário digite 0 (zero).
 # No final da execução, exiba a quantidade de números digitados não
 # levando em consideração o zero, assim como a soma e a média aritmética.
